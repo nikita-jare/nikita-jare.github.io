@@ -9,9 +9,9 @@ function App() {
   return (
     <>
       <div className="font-mono font-semibold absolute min-h-screen min-w-screen bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:24px_24px]">
-        <div className="mx-32 my-5 border-x shadow-xl">
+        <div className="mx-5 md:mx-16 lg:mx-32 my-5 border-x shadow-xl">
           <Header />
-          <div className="mx-48">
+          <div className="mx-5 md:mx-16 lg:mx-32">
             <LandingBody />
             <Experience />
             <Blog />

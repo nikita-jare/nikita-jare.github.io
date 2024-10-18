@@ -2,8 +2,8 @@ import JobCard from "./JobCard";
 
 const Experience = () => {
   return (
-    <div className="border border-black p-5 px-10 my-5">
-      <h1 className="text-3xl font-bold "> Experience</h1>
+    <div className="border border-black p-5 px-5 sm:px-10 my-5">
+      <h1 className="text-2xl sm:text-3xl font-bold">Experience</h1>
       <p className="my-5">
         I am currently working as a Software Engineer at Network tree and
         CarbonFoodPrint.

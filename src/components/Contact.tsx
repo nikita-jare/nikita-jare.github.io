@@ -5,7 +5,7 @@ import { MdEmail } from "react-icons/md";
 const Contact = () => {
   return (
     <>
-      <div className="flex justify-center my-2 text-xl">
+      <div className="flex justify-center sm:justify-start my-2 text-xl">
         <a
           href="https://github.com/nikita-jare"
           target="_blank"
